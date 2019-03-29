@@ -6,7 +6,7 @@ En este archivo se iran agregando un indice de mis avances del curso.
 
 Contenido del curso
 1 Introducción
-Informacion del instructor:  Juan Gabriel Gomila.
-Conceptos de Machine Learning
+  Informacion del instructor: Juan Gabriel Gomila.
+  Conceptos de Machine Learning
 
 
