@@ -12,4 +12,14 @@ Informacion del instructor: Juan Gabriel Gomila.
 
 Conceptos de Machine Learning
 
+# [**Sección: 2 Conoce R y RStudio**] (link aqui)
+
+
+
+
+
+
+
+
+
 
