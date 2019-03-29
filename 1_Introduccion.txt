@@ -1,0 +1,51 @@
+(Informacion extraida del perfil del instructor.)
+Instructor: Juan Gabriel Gomila
+
+Soy licenciado en matemáticas, especializado en el análisis de datos para empresas de videojuegos con R y Python, en Game Design para videojuegos de social casino, en el desarrollo de aplicaciones móviles para iOS y para Android y desarrollador de videojuegos utilizando los motores Unreal Engine y Unity tanto para PC como para móvil desde hacer más de 7 años.
+
+Me encanta programar, crear apps y videojuegos que la gente utilice y sobretodo enseñar tanto en el mundo online, como en la Universidad presenciamente.
+
+Aquí en Udemy, llevo como profesor online desde verano de 2015 he lanzado ya más de 40 cursos online con más de 45.000 estudiantes en más de 130 países de todo el mundo que han aprendido en castellano  temáticas de desarrollo tan diversas como el mundo de las apps para iOS en Objective-C, Swift y SpriteKit,  en Android con Java, desarrollo de videojuegos con Unity y Unreal Engine cubriendo desde lo más básico hasta aspectos avanzados para crear juegos profesionales o incluso análisis de datos masivos, big data, machine learning y data science con R, tidyverse y Python. 
+
+Además, los propios estudiantes online de varias partes del mundo me han contactado para ir a dar conferencias y compartir mis experiencias en lugares tan bonitos como Pamplona, Barcelona, Valencia, Málaga, Londres o Bolivia entre otros. Si no conoces aún ninguno de los cursos que imparto aquí en Udemy, tómate un tiempo para visitar los diversos cursos gratuitos que tengo publicados aquí mismo.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Mi trayectoria profesional
+
+
+
+Formación:
+
+Matrícula de Honor en el Bachillerato científico en 2006 y 10 menciones honoríficas durante mis estudios de la carrera de matemáticas (2006-2011) avalan mi fanatismo y pasión por esta complicada rama de las ciencias exactas, sin la cual no sería yo mismo a la hora de dar mis cursos online. Después de la carrera, hice un master de profesor (2012) pero no me dediqué a ello hasta tres años después (desde 2015 hasta la actualidad), cuando volví a la Universidad de las Islas Baleares como profesor asociado de diversas asignaturas del Grado de Matemáticas y de Telemática , así como profesor del FP superior de desarrollo multiplataforma en la Escuela de Diseño de las Islas Baleares. 
+
+
+
+Artículos y publicaciones:
+
+Decenas de artículos y publicaciones relacionadas con el mundo de las matemáticas, el tratamiento de imágenes junto con la revista internacional IPOL, las lógica detrás de las máquinas tragaperras, el diseño lógico de videojuegos y el análisis de datos. Conoce más acerca de estos y otros temas en mi web personal o en la web de mi estudio Frogames.
+
+Docencia Universitaria:
+
+Desde 2015 soy profesor en dos asignaturas de matemáticas del Grado de Telemática impartido por la Universidad de las Islas Baleares y en el FP Superior de Desarrollo Multiplataforma  impartido en la Escuela de Diseño de las Islas Baleares. Así mismo, los cursos en Udemy me ayudan a mejorar para convertirme en un instructor no solamente presencial y en grupos reducidos de alumnos si no también haciendo uso de las nuevas tecnologías y a grupos más homogéneos de alumnos.
+
+Desarrollo de Videojuegos en PlaySpace SL:
+
+Desde 2012, trabajo en la empresa de desarrollo de videojuegos española PlaySpace SL, desarrollando juegos clásicos de mesa y social casino como el Parchís, Bingo, Juegos de Cartas o máquinas de Slots. Empecé llevando a cabo las funciones de Game Designer y Data Scientist, definiendo las nuevas funcionalidades a partir de los datos existentes y mejorando el contenido a cada etapa. Desde 2014 dirigiendo el producto como Product Manager y Game Producer coordinando las labores de lanzamiento de nuevos juegos y funcionalidades.
+
+En Noviembre de 2015 decidí finalizar mi etapa en la empresa y tirarme a la piscina emprendiendo con mi propio estudio de videojuegos Frogames, el cual me ha permitido escalar y darme a conocer en el mundo entero.
+
+Desarrollo de Apps:
+
+Cuento con experiencia laboral en crear y lanzar de 30 apps y videojuegos lanzados por mi estudio Frogames y en más de 5 proyectos con empresas reconocidas internacionalmente incluyendo Audición Plena, Medical Alert, Plaiout o Pillapartida entre otros. En este aspecto soy publisher de aplicaciones en diferentes países y mercados online incluidos los de Google Play, Amazon Store y Apple App Store. En la web corporativa de Frogames y en mi propio blog encontrarás mi portfolio de proyectos lanzados para que valores su calidad y estilo.
+
+Online Marketing / SEO:
+
+Tengo experiencia en la creación de KPIs y realización de predicciones a medio y largo plazo basada en los datos clave de un negocio. Así mismo, tengo experiencia en optimizar tanto el SEO como el ASO de los artículos y apps que elaboro para conseguir el mayor número de descargas orgánicas sin invertir dinero en marketing. Así mismo, he coordinado varias campañas de Google Adwords y Facebook Ads para acelerar las descargas y visitas de los productos que he lanzado, como estos mismos cursos en Udemy.
+
+Si quieres más información gratuita sobre este tema, en el blog de mi página web tienes varios artículos acerca de esta y otras temáticas interesantes relacionadas con el mundo del marketing.
+
+Data Mining y Business Intelligence
+
+Con la experiencia en el análisis de datos en PlaySpace, me he especializado en bases de datos relacionales con MySQL y los algoritmos de Slice & Dice para tratar y organizar los datos en dashboards con sentido y usables para sacar conclusiones acertadas en los proyectos que he trabajado. En el blog de mi web personal encontrarás más artículos relacionados con el Data Mining y Business Intelligence con el que he trabajado en el area de los videojuegos y apps móviles.
+
