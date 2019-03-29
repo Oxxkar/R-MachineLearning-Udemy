@@ -14,6 +14,9 @@ Conceptos de Machine Learning
 
 # [**Sección: 2 Conoce R y RStudio**] (link aqui)
 
+1. Instrucciones de como descargar e instalar R y RStudio. [Ayudas de R](https://www.rstudio.com/resources/cheatsheets/)
+  
+  Ubuntu: `sudo aptitude install r-base`
 
 
 
